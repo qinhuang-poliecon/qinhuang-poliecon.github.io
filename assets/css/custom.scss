@@ -1,0 +1,39 @@
+/* Teaching page specific styling */
+.page__content h2 {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  border-bottom: none;
+}
+
+.page__content strong {
+  font-weight: bold;
+}
+
+.page__content p {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.layout--archive .page__title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+/* Adjust spacing between sections */
+.page__content h2 + p {
+  margin-top: 0.5rem;
+}
+
+/* Page footer number styling */
+.page__content:after {
+  content: "2";
+  display: block;
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+} 
