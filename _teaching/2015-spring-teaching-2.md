@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant: Political Economy of Development"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2021-fall-teaching-2
+venue: "Northwestern University, Department of Political Science"
+date: 2021-09-15
+location: "Evanston, Illinois"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant for Prof. Jordan Gans-Morse's course on Political Economy of Development. This course examines the interaction of political and economic factors in shaping development outcomes, with a focus on emerging and developing economies.
 
-Heading 1
+Responsibilities
 ======
+* Led weekly discussion sessions focusing on key concepts and readings
+* Provided detailed feedback on student papers and research projects
+* Assisted in designing course assignments and evaluation criteria
+* Held regular office hours to support student learning
 
-Heading 2
-======
-
-Heading 3
-======
+Student Evaluation: 5.5/6

@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: Social Movements, Social Protest, and Change"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2022-spring-teaching-1
+venue: "Northwestern University, Department of Political Science"
+date: 2022-01-10
+location: "Evanston, Illinois"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant for Prof. Wendy Pearlman's course on Social Movements, Social Protest, and Change. The course explores theories of collective action, social movements, and political protest, examining how ordinary people mobilize to challenge power structures and create social change.
 
-Heading 1
+Responsibilities
 ======
+* Led weekly discussion sections
+* Graded student assignments and provided feedback
+* Held regular office hours to assist students
+* Facilitated classroom activities and discussions
 
-Heading 2
-======
-
-Heading 3
-======
+Student Evaluation: 6/6

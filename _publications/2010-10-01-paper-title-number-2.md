@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Pathways to Digital Governance: Fiscal Resources, Political Pressure, and Provincial Disparities"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-digital-governance
+excerpt: 'This paper examines the various pathways to digital governance implementation across Chinese provinces, highlighting the role of fiscal resources and political pressure in explaining regional disparities.'
+date: 2023-05-01
+venue: 'Chinese Public Administration'
+paperurl: '#'
+citation: 'Huang, Q., & Wang, X. (2023). &quot;Pathways to Digital Governance: Fiscal Resources, Political Pressure, and Provincial Disparities.&quot; <i>Chinese Public Administration</i>. (in Chinese)'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper examines the various pathways to digital governance implementation across Chinese provinces, highlighting the role of fiscal resources and political pressure in explaining regional disparities. Using a configurational analysis approach, we identify multiple causal pathways that lead to successful digital governance implementation. The study demonstrates how different combinations of fiscal capacity, political incentives, and institutional factors produce varying outcomes across China's provinces.
+
+*Received the "Merit Paper Award" from the Chinese Public Administration Society*
+
+[Download paper here](#)
