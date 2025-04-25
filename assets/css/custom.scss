@@ -27,13 +27,4 @@
 /* Adjust spacing between sections */
 .page__content h2 + p {
   margin-top: 0.5rem;
-}
-
-/* Page footer number styling */
-.page__content:after {
-  content: "2";
-  display: block;
-  text-align: center;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
 } 

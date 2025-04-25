@@ -1,3 +1,28 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+
+<script>
+  // Remove any stray number 2 that appears at the end of the main content
+  document.addEventListener('DOMContentLoaded', function() {
+    // Look for text nodes in the main div that contain just the number 2
+    const walker = document.createTreeWalker(
+      document.body,
+      NodeFilter.SHOW_TEXT,
+      { acceptNode: function(node) { 
+        return node.nodeValue.trim() === '2' ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP; 
+      }},
+      false
+    );
+
+    const nodesToRemove = [];
+    while(walker.nextNode()) {
+      nodesToRemove.push(walker.currentNode);
+    }
+
+    // Remove the nodes
+    nodesToRemove.forEach(node => {
+      node.parentNode.removeChild(node);
+    });
+  });
+</script>

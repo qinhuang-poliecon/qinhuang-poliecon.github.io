@@ -43,14 +43,4 @@
 /* Reduce space between sections */
 .page__content p + h2 {
   margin-top: 1.2rem;
-}
-
-/* Page footer number styling */
-.page__content:after {
-  content: "2";
-  display: block;
-  text-align: center;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  font-size: 0.9rem;
 } 
