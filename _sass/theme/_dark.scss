@@ -51,4 +51,15 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
+
+    /* Add specific styles for bold text and headings */
+    strong, b {
+        color: #{$text};
+        font-weight: bold;
+    }
+
+    h2 {
+        color: #{$text};
+        font-weight: bold;
+    }
 }
