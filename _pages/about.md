@@ -29,7 +29,7 @@ I am a PhD Candidate in Political Science at Northwestern University, specializi
 
 ## Dissertation Book Project
 
-**Patchwork Capitalism: Institutional Change and Regional Economies in China**
+*Patchwork Capitalism: Institutional Change and Regional Economies in China*
 
 My dissertation examines the divergent economic trajectories of China’s regions over four decades of Reform and Opening. Utilizing machine-learning analysis, I identify four distinct types of regional economies—quasi-liberal, dual-market, state-retreating, and state-dominated—each shaped by varying degrees of market development and state influence. Through extensive fieldwork in 14 provinces over two years, I find that policy choices made by provincial leaders in the 1980s were decisive, setting in motion these four path-dependent economic trajectories that have persisted and been reinforced over time. The study highlights the importance of the early autonomy granted by Deng Xiaoping, which enabled local officials to pursue tailored development strategies—the effects of which continue to shape regional economies today.
 

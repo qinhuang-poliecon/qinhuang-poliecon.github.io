@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Qin Huang"
-title_separator          : "-"
+title                    : "Qin Huang | Political & Social Researcher"
+title_separator          : "|"
 name                     : &name "Qin Huang"
 description              : &description "PhD Candidate in Political Science at Northwestern University"
 url                      : https://qinhuang-poliecon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
