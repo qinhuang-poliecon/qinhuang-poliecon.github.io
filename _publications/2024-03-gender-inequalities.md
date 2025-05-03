@@ -1,19 +1,11 @@
 ---
 title: "Identifying Gender Inequalities in Pathways to Political Participation: A Large-N QCA Framework"
 collection: publications
-category: manuscripts
 permalink: /publication/2024-gender-inequalities
-excerpt: 'This paper applies a large-N Qualitative Comparative Analysis framework to identify multiple causal pathways that lead to gender inequalities in political participation.'
-date: 2024-03-15
-venue: 'Under Review at Humanities and Social Sciences Communications'
-paperurl: '#'
-citation: 'Huang, Q. (2024). &quot;Identifying Gender Inequalities in Pathways to Political Participation: A Large-N QCA Framework.&quot; <i>Under Review at Humanities and Social Sciences Communications</i>.'
+date: 2024-05-15
+venue: 'Revise and Resubmit'
+author: 'Qin Huang'
 ---
 
-This paper introduces a novel methodological approach that combines large-N Qualitative Comparative Analysis with machine learning techniques to identify multiple causal pathways that lead to gender inequalities in political participation across different contexts. 
+Do female and male youths in the United States follow different modal pathways to voting participation? If so, do these differences reflect gender inequalities? This paper seeks to answer these questions by employing a large-N Qualitative Comparative Analysis (QCA) of youth voting patterns in the 1972 presidential elections. The study specifically probes how four explanatory factors - family socioeconomic status, college education, political socialization, and voluntarism - combine in distinct ways to contribute to the category of politically active youths. The investigation of this category uncovers three aspects of gender inequalities in voting participation: a greater degree of difficulty in the pathways for female youths, a lack of diversity among politically active female youths, and a trend of political inactivity among socially disadvantaged female youths. The findings from the 2004 and 2012 presidential elections suggest that gender inequalities persist even today, despite female youths achieving significantly higher turnout levels than male youths. Compared to their male counterparts, contemporary female youths must and do overcome more challenges to engage in voting. This paper concludes by considering how future applications of large-N QCA could help identify inequalities in political participation for other groups and in other contexts.
 
-The study identifies several distinct causal configurations of social, economic, and institutional factors that systematically produce gender disparities in political representation and participation. By employing a set-theoretic approach, I demonstrate how different combinations of conditions interact to create barriers to women's political engagement, revealing complex patterns that traditional statistical methods might overlook.
-
-The methodological framework presented offers a powerful tool for analyzing complex social phenomena where multiple causal pathways may lead to similar outcomes, while still accommodating large datasets.
-
-[Download paper here](#) 

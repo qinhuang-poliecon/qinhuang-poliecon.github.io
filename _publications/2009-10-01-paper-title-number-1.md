@@ -1,15 +1,16 @@
 ---
 title: "Towards Machine-Learning Enhanced QCA: Optimizing Coverage and Empirical Significance"
 collection: publications
-category: manuscripts
-permalink: /publication/2023-ml-qca
-excerpt: 'This paper introduces a novel approach that integrates machine learning with Qualitative Comparative Analysis (QCA) to enhance empirical significance and coverage.'
-date: 2023-10-01
-venue: 'Quality and Quantity: International Journal of Methodology'
-paperurl: '#'
-citation: 'Huang, Q. (Forthcoming). &quot;Towards Machine-Learning Enhanced QCA: Optimizing Coverage and Empirical Significance.&quot; <i>Quality and Quantity: International Journal of Methodology</i>.'
+permalink: /publication/2025-ml-qca
+date: 2025-10-01
+venue: 'Forthcoming in Quality and Quantity: International Journal of Methodology'
+author: 'Qin Huang'
 ---
 
-This paper introduces a novel approach that integrates machine learning with Qualitative Comparative Analysis (QCA) to enhance empirical significance and coverage. By leveraging machine learning algorithms to identify optimal configurations, the method overcomes traditional limitations in QCA related to limited diversity and case selection. The integration allows for more robust set-theoretic analysis in both small-N and large-N research contexts.
+Qualitative Comparative Analysis (QCA) relies on case knowledge and existing theories to select conditions and calibrate sets. However, as the number of cases grows, researchers’ case knowledge tends to decrease, posing significant challenges to large-N QCA practitioners. In response, this article proposes machine-learning enhanced QCA (mlQCA) for condition selection, set calibration, and iterative model development in large-N QCA. This approach specifically incorporates Extreme Gradient Boosting (XGBoost) because its tree-based models have algorithms similar to QCA sufficiency tests. By using mlQCA, practitioners can identify explanatory conditions and calibration cut-offs that optimize the coverage of QCA solutions. Drawing on a classic study on voting participation, the article illustrates how mlQCA can leverage empirical information to produce substantively important results. Two versions of mlQCA are presented. The radical version makes extensive use of automation tools, while the conservative version prioritizes theoretical engagement and allows QCA practitioners to decide the extent to which automation tools are used.
 
-[Download paper here](#)
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774298)
+
+<br/>
+
+For detailed guidance on installing and using the mlQCA R package, please visit [the official package website](https://qinhuang-poliecon.github.io/mlQCA/). 
