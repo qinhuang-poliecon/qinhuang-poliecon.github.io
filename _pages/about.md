@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify; font-size: 0.9em">
-I am a PhD Candidate in Political Science at Northwestern University, specializing in Comparative Politics and Research Methods. My research focuses on comparative political economy, institutional change, and bureaucratic politics. Methodologically, I explore how machine-learning algorithms can complement qualitative approaches to theory and conceptual development. My dissertation book project examines the varieties of regional economies in China, their historical evolution, and China's integration into global capitalism. It also advances a new approach to concept formation by combining quantitative clustering with qualitative typology.
+I am a PhD Candidate in Political Science at Northwestern University, specializing in Comparative Politics and Research Methods. My research focuses on comparative political economy, institutional change, and bureaucratic politics. Methodologically, I explore how machine-learning algorithms can complement qualitative induction. My dissertation book project examines the varieties of regional economies in China, their historical evolution, and China's integration into global capitalism. It also advances a new approach to concept formation by combining quantitative clustering with qualitative typology.
 </div>
 
 
