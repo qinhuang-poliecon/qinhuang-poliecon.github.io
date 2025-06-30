@@ -1,7 +1,7 @@
 ---
 title: "Patchwork Capitalism: State, Market, and Hybrid Economies in China"
 collection: publications
-permalink: /publication/2024-clustering-typology
+permalink: /publication/2024-patch-work
 date: 2027-04-01
 venue: 'Job Market Paper'
 author: 'Qin Huang'
