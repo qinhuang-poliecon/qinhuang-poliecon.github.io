@@ -3,7 +3,7 @@ title: "Towards Machine-Learning Enhanced QCA: Optimizing Coverage and Empirical
 collection: publications
 permalink: /publication/2025-ml-qca
 date: 2025-10-01
-venue: 'Forthcoming in Quality and Quantity: International Journal of Methodology'
+venue: 'Quality and Quantity: International Journal of Methodology'
 author: 'Qin Huang'
 ---
 
