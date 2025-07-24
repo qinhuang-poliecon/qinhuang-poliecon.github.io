@@ -39,9 +39,11 @@
         {% if post.author %}
           <p style="margin: 0;">{{ post.author }}</p>
         {% endif %}
-        {% if post.venue contains "Quality and Quantity" or post.venue contains "Chinese Public Administration" %}
+        {% if post.venue contains "Quality and Quantity" or post.venue contains "Chinese Public Administration" or post.venue contains "Public Administration and Policy Review" %}
           {% if post.venue contains "Chinese Public Administration" %}
             <p style="margin: 0;"><i>Chinese Public Administration</i> 《中国行政管理》, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% elsif post.venue contains "Public Administration and Policy Review" %}
+            <p style="margin: 0;"><i>Public Administration and Policy Review</i> 《公共管理与政策评论》, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% else %}
             <p style="margin: 0;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% endif %}
