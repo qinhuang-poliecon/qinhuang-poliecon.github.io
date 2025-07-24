@@ -11,7 +11,7 @@ author_profile: true
 <hr />
 
 {% for post in site.publications reversed %}
-  {% if post.venue contains "Quality and Quantity" or post.venue contains "Chinese Public Administration" %}
+  {% if post.venue contains "Quality and Quantity" or post.venue contains "Chinese Public Administration" or post.venue contains "Public Administration and Policy Review" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

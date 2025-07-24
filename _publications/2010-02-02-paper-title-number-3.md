@@ -3,7 +3,7 @@ title: "Lifting the Government Veil: Data Openness and Transparency in Chinese U
 collection: publications
 permalink: /publication/2025-open-government
 date: 2025-02-02
-venue: 'Public Administration and Policy Review《公共管理与政策评论》'
+venue: 'Public Administration and Policy Review 《公共管理与政策评论》'
 author: 'Xiang Wang and Qin Huang'
 ---
 
